@@ -1,0 +1,131 @@
+{
+    "AnnoucementText" : "Wellcom to our socks proxy app v3.0 with all new user interface for easy and better navigation, some new features are yet to be rleased plese stay tudned for futer release wellcom to the new era.",
+    
+    
+    "customNotiText" : "Server congestion please hold patience while services is restored back fully, thank you for your patience.",
+    
+    
+    "RateAppActiveness" : 0,
+    
+    "customNotiActiveness" : 1,
+    
+    "AnnoucementActiveness" : 0,
+    
+    "TapAnnoucementActiveness" : 0,
+    
+    
+    "CustomAdsImagelink" : "https://drive.google.com/uc?export=download&id=1fubUdsngB4QfHgH0gGaROVwVCRXOze93",
+    "CustomAdsAvailable" : 0,
+    
+    
+    "CustomTopAdActiveness" : 1,
+    "CustomTopAdTittle" : "Get a private proxy today",
+    "CustomTopAdDescrition" : "Worldwide 4g proxies with the highest qualities and most affordable prices.",
+    "CustomTopAdImageLink" : "https://marketbusinessnews.com/wp-content/uploads/2023/04/proxy.jpeg",
+    "TopAdLink" : "https://t.me/J4U_MobileProxy_bot?start=MTAyOTQuNTI4NDA5OTQ1OA==",
+    
+    
+    "CustomBottomAdActiveness" : 1,
+    "CustomBottomAdTittle" : "Get a private proxy today",
+    "CustomBottomAdDescrition" : "Worldwide 4g proxies with the highest qualities and most affordable prices.",
+    "CustomBottomAdImageLink" : "https://t.me/J4U_MobileProxy_bot?start=MTAyOTQuNTI4NDA5OTQ1OA==",
+    "BottomAdLink" : "https://t.me/J4U_MobileProxy_bot?start=MTAyOTQuNTI4NDA5OTQ1OA==",
+    
+    
+    
+    
+    "UpdateAppNotiText" : "Get the new app version and all new features today",
+    "RateAppNotiText" : "Give us a five star rating to encourage us today",
+    
+    
+    "AllowSave" : 1,
+    
+    "BlankSpaceActiveness" : 0,
+    
+    "OffersActiveness" : 1,
+    
+    
+    "WeeklyRP" : "7 days = $6",
+    "BiWeeklyRP" : "14 days = $12",
+    "MonthlyRP" : "30 days = $20",
+    
+    
+    
+    "GioChecker" : "0f3adb958d7f417c9d1c3e959bcec47e",
+    
+    
+    
+    "GioRestrition" : "5e69416ae1884c8ab420623690954bf3",
+    
+    
+    
+    "SmsVerificationAvailable" : 0,
+    "SmsVerificationLink" : "https://t.me/Bet_Raider_Official",
+    
+    
+    "ActivateRestritions" : 0,
+    
+    
+    "restrictedCountries": ["KE", "ID", "IN"],
+    
+    
+    
+    "Ads_Ids" : "//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////",
+    
+    "GoogleBannerAdsId" : "ca-app-pub-6605001743798241/4188551358",
+    "GoogleAppOpenAdsId" : "ca-app-pub-6605001743798241/6325767058",
+    "GoogleInterstitialAdsId" : "ca-app-pub-6605001743798241/4237007373",
+    "GoogleRewardedAdsId" : "ca-app-pub-6605001743798241/9538768739",
+    
+    
+    
+    "V3-GoogleBannerAdsId" : "ca-app-pub-6605001743798241/4188551358",
+    "V3-GoogleAppOpenAdsId" : "ca-app-pub-6605001743798241/4531486347",
+    "V3-GoogleInterstitialAdsId" : "ca-app-pub-6605001743798241/4237007373",
+    "V3-GoogleRewardedAdsId" : "ca-app-pub-6605001743798241/9538768739",
+    
+  "Ads_Settings" : "//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////",
+  
+    "UseGoogleBannerAds" : 1,
+    "UseGoogleAppOpenAds" : 1,
+    "UseGoogleInterstitialAds" : 1,
+    "UseGoogleRewardedAds" : 1,
+    "BannerAdType" : 0,
+    "BannerRefreshRate" : 35,
+    "AllowBannerRefresh" : 1,
+    
+    
+    "AddKeywords1" : "VPN",
+    "AddKeywords2" : "Survey",
+    "AddKeywords3" : "Earn Money",
+    "AddKeywords4" : "Play-to-Earn",
+    "AddKeywords5" : "Online Privacy",
+    "AddKeywords6" : "Virtual Private Network",
+    "AddKeywords7" : "IP Masking",
+    "AddKeywords8" : "Online Surveys",
+    "AddKeywords9" : "Cash Rewards",
+    "AddKeywords10" : "Work from Home",
+    
+    
+  
+    "Settings" : "//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////",
+    
+    "AppStoreLink" : "market://details?id=com.Lemulite_Studio.SOCKSIPFREEVPNIP",
+    "ProAppStoreLink" : "market://details?id=com.Lemulite_Studio.SOCKSIPFREEVPNIP",
+    "ContactEmail" : "lemulitestudo@gmail.com",
+    "LatestAppVersion" : "2.1",
+    "ProappLinkAvailable" : 0,
+    "ForceUpdatev0.1" : 1,
+    "ForceUpdatev0.2" : 1,
+    "ForceUpdatev0.3" : 1,
+    "ForceUpdatev0.4" : 1,
+    "ForceUpdatev0.41" : 1,
+    "ForceUpdatev2.0" : 1,
+    "ForceUpdatev2.1" : 0,
+    "ForceUpdatev3.0" : 0,
+    "TelegramLink" : "https://t.me/Bet_Raider_Official",
+    "CustomAdsLink" : "https://t.me/Bet_Raider_Official",
+    "MailGenPassword" : "Empress",
+    "AccessAlias" : "N_Documental_Toolx333",
+    "AllowAllAlias" : 0,
+}
